@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on fun Unity game projects!
 - 📫 How to reach me: DM me!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love TFT!
+- ⚡ Fun fact: I love TFT and Elden Ring!
 
 <!---
 pjbrich/pjbrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
